@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import pandas as pd
 import sys
 from functools import reduce, cache
