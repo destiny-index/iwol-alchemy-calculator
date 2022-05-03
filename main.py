@@ -29,7 +29,7 @@ def get_recipes():
 @cache
 def get_herbs():
     data = pd.read_excel(spreadsheet, sheet_name='Herbs', usecols='A:C,E,G')
-    return list(data.itertuples())
+    return [i for i in data.itertuples() if 'Demon Core' not in i.Name ]
 
 
 def get_herb(name):
