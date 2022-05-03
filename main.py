@@ -89,6 +89,7 @@ def sidetier_ingredient(slot, recipe):
         for h in herbs_by(grade=t_herb.Grade, property=get_balancing_temperature(r))
     ]
 
+
 def sidetier(recipe):
     return [
         new_recipe
@@ -157,17 +158,22 @@ def calculate_price(recipe):
         for ingredient in recipe.values()
     ])
 
+
 if __name__ == '__main__':
     name = sys.argv[1]
 
     recipes = get_recipes()
 
-    print_recipe(recipes[name])
+    # print_recipe(recipes[name])
 
+    found = []
     for i in sidetier(recipes[name]):
         for j in downtier(i):
-            print_recipe(j)
+            if j not in found:
+                found.append(j)
 
+    for i in sorted(found, key=calculate_price, reverse=True):
+        print_recipe(i)
 
 from unittest import TestCase
 class TestRecipes(TestCase):
