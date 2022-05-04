@@ -141,13 +141,14 @@ def downtier(recipe, furnace_capacity=14, found=[]):
     recurse_on = []
     for slot in recipe.keys():
         for i, new_recipe in enumerate(downtier_ingredient(slot, recipe)):
-            if count_num_herbs(new_recipe) <= furnace_capacity:
+            if count_num_herbs(new_recipe) <= furnace_capacity and new_recipe not in found:
                 downtiered_recipes.append(new_recipe)
 
                 # Only recurse on the first of the downtiered recipes for each slot
                 # to reduce the number of duplicate recipes generated
                 if i == 0:
-                    downtiered_recipes + downtier(new_recipe, furnace_capacity, [recipe] + found + downtiered_recipes)
+                    new_additions = downtier(new_recipe, furnace_capacity, [recipe] + found + downtiered_recipes)
+                    downtiered_recipes.extend(new_additions)
 
     return downtiered_recipes
 
@@ -235,4 +236,3 @@ class TestRecipes(TestCase):
         recipe = get_recipes()['Wellspring Elixir']
         alternate_recipes = [ i for i in downtier(recipe) + sidetier(recipe) ]
         self.assertFalse(find_duplicates(alternate_recipes))
-
