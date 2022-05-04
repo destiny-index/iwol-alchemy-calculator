@@ -64,13 +64,13 @@ def get_balancing_temperature(recipe):
         return 'Balanced'
 
 
-def is_slot_splittable(slot, recipe):
+def is_slot_splittable(slot, recipe, furnace_capacity):
     return (
-        (slot == 'Primary' and 'Primary 2' not in recipe) or
+        (slot == 'Primary' and 'Primary 2' not in recipe and furnace_capacity == 14) or
         (slot == 'Secondary' and 'Secondary 2' not in recipe)
     )
 
-def sidetier_ingredient(slot, recipe):
+def sidetier_ingredient(slot, recipe, furnace_capacity):
     herb = recipe[slot]['herb']
     qty = recipe[slot]['quantity']
 
@@ -83,7 +83,7 @@ def sidetier_ingredient(slot, recipe):
         if new_herb != herb
     ]
 
-    if is_slot_splittable(slot, recipe):
+    if is_slot_splittable(slot, recipe, furnace_capacity):
         sidetiered_recipe.extend([
             {
                 **recipe,
@@ -108,11 +108,11 @@ def balance_recipe_temperature(recipe):
     ]
 
 
-def sidetier(recipe, found=[]):
+def sidetier(recipe, furnace_capacity=14, found=[]):
     sidetiered_recipes = []
     recurse_on = []
     for slot in recipe.keys():
-        for i, new_recipe in enumerate(sidetier_ingredient(slot, recipe)):
+        for i, new_recipe in enumerate(sidetier_ingredient(slot, recipe, furnace_capacity)):
             if i == 0:
                 recurse_on.append(new_recipe)
             if new_recipe not in found:
@@ -124,7 +124,7 @@ def sidetier(recipe, found=[]):
     return sidetiered_recipes + [
         j
         for i in recurse_on
-        for j in sidetier(i, [recipe] + found + sidetiered_recipes)
+        for j in sidetier(i, furnace_capacity, [recipe] + found + sidetiered_recipes)
     ]
 
 
