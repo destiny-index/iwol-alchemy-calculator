@@ -96,10 +96,11 @@ def sidetier_ingredient(slot, recipe, furnace_capacity):
         sidetiered_recipe.extend([
             {
                 **recipe,
-                slot: { 'herb': herb, 'quantity': qty - i },
-                slot + ' 2': { 'herb': herb, 'quantity': i }
+                slot: { 'herb': j[slot]['herb'], 'quantity': qty - i },
+                slot + ' 2': { 'herb': j[slot]['herb'], 'quantity': i }
             }
             for i in range(1, int(qty))
+            for j in sidetiered_recipe
         ])
 
     if slot == 'Temperature': # No temperatures have changed
@@ -270,3 +271,9 @@ class TestRecipes(TestCase):
         recipe = get_recipes()['Wellspring Elixir']
         self.assertFalse(find_duplicates(downtier(recipe)))
         self.assertFalse(find_duplicates(sidetier(recipe)))
+
+    @skip
+    def test_(self):
+        for i in sidetier(get_recipes()['Wild Beast Elixir']):
+            for j in downtier(i):
+                print_recipe(i)
