@@ -70,12 +70,21 @@ def is_slot_splittable(slot, recipe, furnace_capacity):
         (slot == 'Secondary' and 'Secondary 2' not in recipe)
     )
 
+def get_fixed_herb_property(herb, slot):
+    # Drop the number from the slot name when looking up herb property
+    property = getattr(herb, slot.split(' ')[0])
+
+    # Fix typo for spreadsheet
+    if property == 'Coalesing':
+        property = 'Coalescing'
+
+    return property
+
+
 def sidetier_ingredient(slot, recipe, furnace_capacity):
     herb = recipe[slot]['herb']
     qty = recipe[slot]['quantity']
-
-    # Drop the number from the slot name when looking up herb property
-    property = getattr(herb, slot.split(' ')[0])
+    property = get_fixed_herb_property(herb, slot)
 
     sidetiered_recipe = [
         { **recipe, slot: { 'herb': new_herb, 'quantity': qty } }
@@ -241,6 +250,10 @@ class TestRecipes(TestCase):
 
     def test_that_recipes_can_be_sidetiered(self):
         recipes = get_recipes()
+        for i in sidetier(recipes['Talent Orb Elixir']):
+            pass
+            # print_recipe(i)
+
         self.assertTrue(len(sidetier(recipes['Greater Healing Elixir'])) > 10)
 
     def test_that_alternate_recipes_can_be_generate_without_duplicates(self):
@@ -253,10 +266,6 @@ class TestRecipes(TestCase):
                 elif i not in duplicates:
                     duplicates.append(i)
             return duplicates
-
-        def print_duplicate_recipes(candidates):
-            for i in find_duplicates(candidates):
-                print_recipe(i)
 
         recipe = get_recipes()['Wellspring Elixir']
         self.assertFalse(find_duplicates(downtier(recipe)))
