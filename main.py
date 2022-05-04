@@ -182,10 +182,7 @@ def print_recipe(recipe):
     print(
         'Price: {}\t'.format(calculate_price(recipe)),
         '\t'.join([
-            '{}: {:0.0f}x {} '.format(
-                slot,
-                ingredient['quantity'],
-                ingredient['herb'].Name if slot != 'Temperature' else "T{:0.0f} {}".format(ingredient['herb'].Grade, ingredient['herb'].Temperature))
+            '{}: {:0.0f}x {} '.format(slot, ingredient['quantity'], ingredient['herb'].Name)
             for slot, ingredient in recipe.items()
         ])
     )
