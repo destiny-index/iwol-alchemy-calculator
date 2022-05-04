@@ -138,7 +138,6 @@ def downtier_ingredient(slot, recipe):
 
 def downtier(recipe, furnace_capacity=14, found=[]):
     downtiered_recipes = []
-    recurse_on = []
     for slot in recipe.keys():
         for i, new_recipe in enumerate(downtier_ingredient(slot, recipe)):
             if count_num_herbs(new_recipe) <= furnace_capacity and new_recipe not in found:
