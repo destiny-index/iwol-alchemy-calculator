@@ -142,10 +142,7 @@ def sidetier(recipe, furnace_capacity=14, found=[]):
 def downtier_ingredient(slot, recipe):
     herb = recipe[slot]['herb']
     qty = recipe[slot]['quantity']
-
-    # Drop the number from the slot name when looking up herb property
-    # e.g. 'Primary 2' becomes 'Primary'
-    property = getattr(herb, slot.split(' ')[0])
+    property = get_fixed_herb_property(herb, slot)
 
     # T6 herbs can be replaced by 6 T5
     # T5 herbs can be replaced by 5 T4 etc.
@@ -177,6 +174,44 @@ def downtier(recipe, furnace_capacity=14, found=[]):
                     downtiered_recipes.extend(new_additions)
 
     return downtiered_recipes
+
+
+def uptier(recipe, furnace_capacity=14, found=[]):
+    uptiered = []
+    for slot, ingredient in recipe.items():
+        for i, new_recipe in enumerate(uptier_ingredient(slot, recipe, furnace_capacity)):
+            if new_recipe not in found and new_recipe not in uptiered:
+                uptiered.append(new_recipe)
+
+                if i == 0:
+                    new_additions = uptier(new_recipe, furnace_capacity, [recipe] + found + uptiered)
+                    uptiered.extend(new_additions)
+
+    return uptiered
+
+
+def uptier_ingredient(slot, recipe, furnace_capacity=14):
+    herb = recipe[slot]['herb']
+    qty = recipe[slot]['quantity']
+    property = get_fixed_herb_property(herb, slot)
+
+    # T6 herbs can be replaced by 6 T5
+    # T5 herbs can be replaced by 5 T4 etc.
+    qty_ratio = { 6: 6, 5: 5, 4: 4, 3: 3, 2: 3 }
+
+    if qty % qty_ratio[herb.Grade+1] != 0:
+        return []
+
+    uptiered_recipes = [
+        { **recipe, slot: { 'herb': h, 'quantity': qty / qty_ratio[h.Grade] } }
+        for h in herbs_by(grade=herb.Grade+1, property=property)
+    ]
+
+    if slot == 'Temperature':
+        return uptiered_recipes
+
+    return [ b for r in uptiered_recipes for b in balance_recipe_temperature(r) ]
+
 
 
 def recipe_to_dict(recipe):
@@ -212,7 +247,7 @@ def find_slot(name, slots):
 
 
 def print_recipe(recipe):
-    print(json.dumps(recipe_to_dict(recipe)))
+    print(json.dumps(recipe_to_dict(recipe), indent=2))
 
 
 def print_recipes(recipes):
@@ -221,7 +256,7 @@ def print_recipes(recipes):
         key=lambda r: (r['cost'], r['complexity']),
         reverse=True
     )
-    print(json.dumps(result))
+    print(json.dumps(result, indent=2))
 
 
 def calculate_price(recipe):
@@ -240,14 +275,18 @@ if __name__ == '__main__':
 
     recipe = get_recipes()[name]
 
-    found = []
-    for i in sidetier(recipe, furnace_capacity):
-        for j in downtier(i, furnace_capacity):
+    found = [recipe]
+    for i in uptier(recipe, furnace_capacity, found):
+        if i not in found:
+            found.append(i)
+        for j in sidetier(i, furnace_capacity, found):
             if j not in found:
                 found.append(j)
+            for k in downtier(j, furnace_capacity, found):
+                if k not in found:
+                    found.append(k)
 
-    if found:
-        print_recipes(found)
+    print_recipes(found)
 
 from unittest import TestCase, skip
 class TestRecipes(TestCase):
@@ -288,6 +327,11 @@ class TestRecipes(TestCase):
         recipes = get_recipes()
         self.assertEqual(11, len(sidetier(recipes['Qi Guidance Elixir'])))
 
+    def test_that_recipes_can_be_uptiered(self):
+        recipes = get_recipes()
+        recipe = recipes['Vitality Orb Elixir']
+        self.assertEqual(158, len(uptier(recipe)))
+
     def test_that_alternate_recipes_can_be_generate_without_duplicates(self):
         def find_duplicates(candidates):
             found = []
@@ -302,3 +346,4 @@ class TestRecipes(TestCase):
         recipe = get_recipes()['Qi Guidance Elixir']
         self.assertFalse(find_duplicates(downtier(recipe)))
         self.assertFalse(find_duplicates(sidetier(recipe)))
+        self.assertFalse(find_duplicates(uptier(recipe)))
