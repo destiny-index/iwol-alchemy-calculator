@@ -41,9 +41,19 @@ def count_num_herbs(recipe):
 
 
 def herbs_by(grade=None, property=None):
+    to_avoid = [
+        'Bloodrend Pearl',
+        'Soulrend Pearl',
+        'Blood Bohdi Fruit',
+        'Crystalized Soul',
+        'Dragon\'s Whiskers Vine',
+        'Netherrealm Bone',
+        'Royal Dragon Flower',
+        'Nine Dragons Deep Aloe',
+    ]
     return [
         h for h in get_herbs()
-        if h.Grade == grade and (
+        if h.Grade == grade and h.Name not in to_avoid and (
             h.Primary == property or
             h.Secondary == property or
             h.Temperature == property
@@ -199,7 +209,7 @@ def uptier_ingredient(slot, recipe, furnace_capacity=14):
     # T5 herbs can be replaced by 5 T4 etc.
     qty_ratio = { 6: 6, 5: 5, 4: 4, 3: 3, 2: 3 }
 
-    if qty % qty_ratio[herb.Grade+1] != 0:
+    if herb.Grade < 6 and qty % qty_ratio[herb.Grade+1] != 0:
         return []
 
     uptiered_recipes = [
@@ -311,7 +321,7 @@ class TestRecipes(TestCase):
 
     def test_that_herb_can_be_found_by_grade_and_property(self):
         found = herbs_by(grade=4.0, property='Cold')
-        self.assertEqual(12, len(found))
+        self.assertEqual(10, len(found))
 
     def test_that_the_temperature_of_the_temperature_herb_can_be_calculated(self):
         recipes = get_recipes()
@@ -329,8 +339,8 @@ class TestRecipes(TestCase):
 
     def test_that_recipes_can_be_uptiered(self):
         recipes = get_recipes()
-        recipe = recipes['Vitality Orb Elixir']
-        self.assertEqual(158, len(uptier(recipe)))
+        self.assertEqual(152, len(uptier(recipes['Vitality Orb Elixir'])))
+        self.assertEqual(6, len(uptier(recipes['Pure Heart Soul Tempering Elixir'])))
 
     def test_that_alternate_recipes_can_be_generate_without_duplicates(self):
         def find_duplicates(candidates):
