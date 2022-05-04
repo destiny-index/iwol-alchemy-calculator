@@ -246,8 +246,9 @@ if __name__ == '__main__':
             if j not in found:
                 found.append(j)
 
-    cheapest = min(found, key=calculate_price)
-    print_recipes([r for r in found if calculate_price(r) == calculate_price(cheapest)])
+    if found:
+        cheapest = min(found, key=calculate_price)
+        print_recipes([r for r in found if calculate_price(r) == calculate_price(cheapest)])
 
 from unittest import TestCase, skip
 class TestRecipes(TestCase):
