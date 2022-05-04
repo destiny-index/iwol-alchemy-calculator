@@ -212,8 +212,11 @@ if __name__ == '__main__':
             if j not in found:
                 found.append(j)
 
-    for i in sorted(found, key=calculate_price, reverse=True):
-        print_recipe(i)
+    if found:
+        head, *tail = sorted(found, key=calculate_price)
+        for i in found:
+            if calculate_price(i) == calculate_price(head):
+                print_recipe(i)
 
 from unittest import TestCase, skip
 class TestRecipes(TestCase):
