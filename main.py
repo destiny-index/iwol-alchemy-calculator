@@ -252,11 +252,7 @@ class TestRecipes(TestCase):
 
     def test_that_recipes_can_be_sidetiered(self):
         recipes = get_recipes()
-        for i in sidetier(recipes['Talent Orb Elixir']):
-            pass
-            # print_recipe(i)
-
-        self.assertTrue(len(sidetier(recipes['Greater Healing Elixir'])) > 10)
+        self.assertEqual(85, len(sidetier(recipes['Greater Healing Elixir'])))
 
     def test_that_alternate_recipes_can_be_generate_without_duplicates(self):
         def find_duplicates(candidates):
