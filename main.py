@@ -2,6 +2,7 @@
 
 import pandas as pd
 import sys
+import json
 from functools import reduce, cache
 
 spreadsheet = 'IWOL Alchemy and Forging Guide.xlsx'
@@ -24,7 +25,6 @@ def get_recipes():
             }
 
     return recipes
-
 
 @cache
 def get_herbs():
@@ -178,14 +178,49 @@ def downtier(recipe, furnace_capacity=14, found=[]):
 
     return downtiered_recipes
 
+
+def recipe_to_dict(recipe):
+    slots = [
+        { 'slot': slot, 'qty': ingredient['quantity'], 'herb': ingredient['herb'].Name }
+        for slot, ingredient in sorted(recipe.items(), key=lambda i: i[0])
+    ]
+
+    herbs = []
+    for s in slots:
+        if s['herb'] not in herbs:
+            herbs.append(s['herb'])
+
+    return {
+        'primary': find_slot('Primary', slots),
+        'primary2': find_slot('Primary 2', slots),
+        'secondary': find_slot('Secondary', slots),
+        'secondary2': find_slot('Secondary 2', slots),
+        'temperature': find_slot('Temperature', slots),
+        'slots': len(slots),
+        'complexity': len(herbs),
+        'cost':  calculate_price(recipe),
+    }
+
+
+def find_slot(name, slots):
+    found = next((s for s in slots if 'slot' in s and s['slot'] == name), None)
+    if found:
+        del found['slot']
+        return found
+    return None
+
+
 def print_recipe(recipe):
-    print(
-        'Price: {}\t'.format(calculate_price(recipe)),
-        '\t'.join([
-            '{}: {:0.0f}x {} '.format(slot, ingredient['quantity'], ingredient['herb'].Name)
-            for slot, ingredient in recipe.items()
-        ])
+    print(json.dumps(recipe_to_dict(recipe)))
+
+
+def print_recipes(recipes):
+    result = sorted(
+        [ recipe_to_dict(recipe) for recipe in recipes ],
+        key=lambda r: (r['complexity'], r['slots']),
+        reverse=True
     )
+    print(json.dumps(result))
 
 
 def calculate_price(recipe):
@@ -206,17 +241,13 @@ if __name__ == '__main__':
     recipe = get_recipes()[name]
 
     found = []
-    print_recipe(recipe)
     for i in sidetier(recipe, furnace_capacity):
         for j in downtier(i, furnace_capacity):
             if j not in found:
                 found.append(j)
 
-    if found:
-        head, *tail = sorted(found, key=calculate_price)
-        for i in found:
-            if calculate_price(i) == calculate_price(head):
-                print_recipe(i)
+    cheapest = min(found, key=calculate_price)
+    print_recipes([r for r in found if calculate_price(r) == calculate_price(cheapest)])
 
 from unittest import TestCase, skip
 class TestRecipes(TestCase):
@@ -251,11 +282,11 @@ class TestRecipes(TestCase):
 
     def test_that_recipes_can_be_downtiered(self):
         recipes = get_recipes()
-        self.assertTrue(len(downtier(recipes['Greater Healing Elixir'])) > 10)
+        self.assertEqual(2, len(downtier(recipes['Qi Guidance Elixir'])))
 
     def test_that_recipes_can_be_sidetiered(self):
         recipes = get_recipes()
-        self.assertEqual(85, len(sidetier(recipes['Greater Healing Elixir'])))
+        self.assertEqual(11, len(sidetier(recipes['Qi Guidance Elixir'])))
 
     def test_that_alternate_recipes_can_be_generate_without_duplicates(self):
         def find_duplicates(candidates):
@@ -268,14 +299,6 @@ class TestRecipes(TestCase):
                     duplicates.append(i)
             return duplicates
 
-        recipe = get_recipes()['Wellspring Elixir']
+        recipe = get_recipes()['Qi Guidance Elixir']
         self.assertFalse(find_duplicates(downtier(recipe)))
         self.assertFalse(find_duplicates(sidetier(recipe)))
-
-    @skip
-    def test_(self):
-        for i in sidetier(get_recipes()['Speed Orb Elixir'], furnace_capacity=13):
-            print_recipe(i)
-            for j in downtier(i, furnace_capacity=13):
-                print(count_num_herbs(j))
-                print_recipe(j)
