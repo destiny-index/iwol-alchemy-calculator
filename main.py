@@ -81,20 +81,32 @@ def sidetier_ingredient(slot, recipe):
         return sidetiered_recipe
 
     # Figure out the correct temperature herbs for the sidetiered recipes
-    t_herb = recipe['Temperature']['herb']
-    t_qty = recipe['Temperature']['quantity']
+    return [ b for r in sidetiered_recipe for b in balance_recipe_temperature(r) ]
+
+def balance_recipe_temperature(recipe):
+    herb = recipe['Temperature']['herb']
+    qty = recipe['Temperature']['quantity']
     return [
-        { **r, 'Temperature': { 'herb': h, 'quantity': t_qty } }
-        for r in sidetiered_recipe
-        for h in herbs_by(grade=t_herb.Grade, property=get_balancing_temperature(r))
+        { **recipe, 'Temperature': { 'herb': h, 'quantity': qty } }
+        for h in herbs_by(grade=herb.Grade, property=get_balancing_temperature(recipe))
     ]
 
 
-def sidetier(recipe):
-    return [
+def sidetier(recipe, found=[]):
+    sidetiered_recipes = [
         new_recipe
         for slot in recipe.keys()
         for new_recipe in sidetier_ingredient(slot, recipe)
+        if new_recipe not in found
+    ]
+
+    if not sidetiered_recipes:
+        return []
+
+    return sidetiered_recipes + [
+        j
+        for i in sidetiered_recipes
+        for j in sidetier(i, found + sidetiered_recipes)
     ]
 
 
@@ -110,35 +122,34 @@ def downtier_ingredient(slot, recipe):
     # T5 herbs can be replaced by 5 T4 etc.
     qty_ratio = { 6: 6, 5: 5, 4: 4, 3: 3, 2: 3 }
 
-    downtiered_recipe = [
+    downtiered_recipes = [
         { **recipe, slot: { 'herb': new_herb, 'quantity': qty * qty_ratio[herb.Grade] } }
         for new_herb in herbs_by(grade=herb.Grade-1, property=property)
     ]
 
     if slot == 'Temperature': # No temperatures have changed
-        return downtiered_recipe
+        return downtiered_recipes
 
     # Figure out the correct temperature herbs for the downtiered recipes
-    t_herb = recipe['Temperature']['herb']
-    t_qty = recipe['Temperature']['quantity']
-    return [
-        { **r, 'Temperature': { 'herb': h, 'quantity': t_qty } }
-        for r in downtiered_recipe
-        for h in herbs_by(grade=t_herb.Grade, property=get_balancing_temperature(r))
-    ]
+    return [ b for r in downtiered_recipes for b in balance_recipe_temperature(r) ]
 
 
-def downtier(recipe, furnace_capacity=14):
+def downtier(recipe, furnace_capacity=14, found=[]):
     downtiered_recipes = [
         new_recipe
         for slot in recipe.keys()
         for new_recipe in downtier_ingredient(slot, recipe)
-        if count_num_herbs(new_recipe) <= furnace_capacity
+        if count_num_herbs(new_recipe) <= furnace_capacity and new_recipe not in found
     ]
-    if len(downtiered_recipes) > 0:
-        return downtiered_recipes + [ j for i in downtiered_recipes for j in downtier(i) ]
-    else:
-        return downtiered_recipes
+
+    if not downtiered_recipes:
+        return []
+
+    return downtiered_recipes + [
+        j
+        for i in downtiered_recipes
+        for j in downtier(i, furnace_capacity, found + downtiered_recipes)
+    ]
 
 
 def print_recipe(recipe):
@@ -162,20 +173,19 @@ def calculate_price(recipe):
 if __name__ == '__main__':
     name = sys.argv[1]
 
-    recipes = get_recipes()
+    recipe = get_recipes()[name]
 
-    # print_recipe(recipes[name])
+    print_recipe(recipe)
 
     found = []
-    for i in sidetier(recipes[name]):
-        for j in downtier(i):
-            if j not in found:
-                found.append(j)
+    for i in sidetier(recipe) + downtier(recipe):
+        if i not in found:
+            found.append(i)
 
     for i in sorted(found, key=calculate_price, reverse=True):
         print_recipe(i)
 
-from unittest import TestCase
+from unittest import TestCase, skip
 class TestRecipes(TestCase):
     def test_that_herbs_can_be_loaded_from_spreadsheet(self):
         herbs = get_herbs()
@@ -198,7 +208,7 @@ class TestRecipes(TestCase):
 
     def test_that_herb_can_be_found_by_grade_and_property(self):
         found = herbs_by(grade=4.0, property='Cold')
-        self.assertEqual(13, len(found))
+        self.assertEqual(12, len(found))
 
     def test_that_the_temperature_of_the_temperature_herb_can_be_calculated(self):
         recipes = get_recipes()
@@ -212,4 +222,11 @@ class TestRecipes(TestCase):
 
     def test_that_recipes_can_be_sidetiered(self):
         recipes = get_recipes()
+        for i in sidetier(recipes['Greater Healing Elixir']):
+            print_recipe(i)
         self.assertTrue(len(sidetier(recipes['Greater Healing Elixir'])) > 10)
+
+    def test_that_alternate_recipes_can_be_generate(self):
+        recipe = get_recipes()['Wellspring Elixir']
+        alternate_recipes = [ i for i in downtier(recipe) ]
+        self.assertTrue(len(sorted(alternate_recipes, key=calculate_price, reverse=True)) > 50)
