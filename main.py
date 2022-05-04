@@ -197,7 +197,8 @@ def recipe_to_dict(recipe):
         'secondary2': find_slot('Secondary 2', slots),
         'temperature': find_slot('Temperature', slots),
         'slots': len(slots),
-        'complexity': len(herbs),
+        'herbTypes': len(herbs),
+        'complexity': len(herbs) + len(slots),
         'cost':  calculate_price(recipe),
     }
 
@@ -230,7 +231,6 @@ def calculate_price(recipe):
         for ingredient in recipe.values()
     ])
 
-
 if __name__ == '__main__':
     name = sys.argv[1]
 
@@ -248,7 +248,15 @@ if __name__ == '__main__':
 
     if found:
         cheapest = min(found, key=calculate_price)
-        print_recipes([r for r in found if calculate_price(r) == calculate_price(cheapest)])
+        simplest = min(found, key=lambda r: recipe_to_dict(r)['complexity'])
+        easiest = min(found, key=lambda r: recipe_to_dict(r)['slots'])
+        print_recipes([r
+           for r in found
+           if (
+               calculate_price(r) <= calculate_price(cheapest) and
+               recipe_to_dict(r)['complexity'] <= recipe_to_dict(simplest)['complexity'] + 2
+           )
+       ])
 
 from unittest import TestCase, skip
 class TestRecipes(TestCase):
