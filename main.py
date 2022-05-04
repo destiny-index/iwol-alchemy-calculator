@@ -228,5 +228,5 @@ class TestRecipes(TestCase):
 
     def test_that_alternate_recipes_can_be_generate(self):
         recipe = get_recipes()['Wellspring Elixir']
-        alternate_recipes = [ i for i in downtier(recipe) ]
+        alternate_recipes = [ i for i in downtier(recipe) + sidetier(recipe) ]
         self.assertTrue(len(sorted(alternate_recipes, key=calculate_price, reverse=True)) > 50)
