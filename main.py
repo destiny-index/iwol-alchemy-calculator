@@ -276,13 +276,7 @@ def calculate_price(recipe):
         for ingredient in recipe.values()
     ])
 
-if __name__ == '__main__':
-    name = sys.argv[1]
-
-    furnace_capacity = 14
-    if len(sys.argv) > 2:
-        furnace_capacity = int(sys.argv[2])
-
+def generate_all_recipes_for(name, furnace_capacity=14):
     recipe = get_recipes()[name]
 
     found = [recipe]
@@ -295,8 +289,17 @@ if __name__ == '__main__':
             for k in downtier(j, furnace_capacity, found):
                 if k not in found:
                     found.append(k)
+    return found
 
-    print_recipes(found)
+
+if __name__ == '__main__':
+    name = sys.argv[1]
+
+    furnace_capacity = 14
+    if len(sys.argv) > 2:
+        furnace_capacity = int(sys.argv[2])
+
+    print_recipes(generate_all_recipes_for(name, furnace_capacity))
 
 from unittest import TestCase, skip
 class TestRecipes(TestCase):
@@ -342,6 +345,9 @@ class TestRecipes(TestCase):
         self.assertEqual(152, len(uptier(recipes['Vitality Orb Elixir'])))
         self.assertEqual(6, len(uptier(recipes['Pure Heart Soul Tempering Elixir'])))
 
+    def test_that_all_recipes_can_be_generated_for_name(self):
+        self.assertEqual(310, len(generate_all_recipes_for('Pure Heart Soul Tempering Elixir')))
+
     def test_that_alternate_recipes_can_be_generate_without_duplicates(self):
         def find_duplicates(candidates):
             found = []
@@ -357,3 +363,4 @@ class TestRecipes(TestCase):
         self.assertFalse(find_duplicates(downtier(recipe)))
         self.assertFalse(find_duplicates(sidetier(recipe)))
         self.assertFalse(find_duplicates(uptier(recipe)))
+        self.assertFalse(find_duplicates(generate_all_recipes_for('Pure Heart Soul Tempering Elixir')))
