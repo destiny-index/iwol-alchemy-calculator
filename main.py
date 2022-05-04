@@ -218,7 +218,7 @@ def print_recipe(recipe):
 def print_recipes(recipes):
     result = sorted(
         [ recipe_to_dict(recipe) for recipe in recipes ],
-        key=lambda r: (r['complexity'], r['slots']),
+        key=lambda r: (r['cost'], r['complexity']),
         reverse=True
     )
     print(json.dumps(result))
@@ -247,16 +247,7 @@ if __name__ == '__main__':
                 found.append(j)
 
     if found:
-        cheapest = min(found, key=calculate_price)
-        simplest = min(found, key=lambda r: recipe_to_dict(r)['complexity'])
-        easiest = min(found, key=lambda r: recipe_to_dict(r)['slots'])
-        print_recipes([r
-           for r in found
-           if (
-               calculate_price(r) <= calculate_price(cheapest) and
-               recipe_to_dict(r)['complexity'] <= recipe_to_dict(simplest)['complexity'] + 2
-           )
-       ])
+        print_recipes(found)
 
 from unittest import TestCase, skip
 class TestRecipes(TestCase):
