@@ -64,6 +64,12 @@ def get_balancing_temperature(recipe):
         return 'Balanced'
 
 
+def is_slot_splittable(slot, recipe):
+    return (
+        (slot == 'Primary' and 'Primary 2' not in recipe) or
+        (slot == 'Secondary' and 'Secondary 2' not in recipe)
+    )
+
 def sidetier_ingredient(slot, recipe):
     herb = recipe[slot]['herb']
     qty = recipe[slot]['quantity']
@@ -76,6 +82,16 @@ def sidetier_ingredient(slot, recipe):
         for new_herb in herbs_by(grade=herb.Grade, property=property)
         if new_herb != herb
     ]
+
+    if is_slot_splittable(slot, recipe):
+        sidetiered_recipe.extend([
+            {
+                **recipe,
+                slot: { 'herb': herb, 'quantity': qty - i },
+                slot + ' 2': { 'herb': herb, 'quantity': i }
+            }
+            for i in range(1, int(qty))
+        ])
 
     if slot == 'Temperature': # No temperatures have changed
         return sidetiered_recipe
@@ -174,8 +190,14 @@ if __name__ == '__main__':
 
     recipe = get_recipes()[name]
 
+    found = []
     print_recipe(recipe)
-    for i in sorted(sidetier(recipe) + downtier(recipe), key=calculate_price, reverse=True):
+    for i in sidetier(recipe):
+        for j in downtier(i):
+            if j not in found:
+                found.append(j)
+
+    for i in sorted(found, key=calculate_price, reverse=True):
         print_recipe(i)
 
 from unittest import TestCase, skip
@@ -233,5 +255,5 @@ class TestRecipes(TestCase):
                 print_recipe(i)
 
         recipe = get_recipes()['Wellspring Elixir']
-        alternate_recipes = [ i for i in downtier(recipe) + sidetier(recipe) ]
-        self.assertFalse(find_duplicates(alternate_recipes))
+        self.assertFalse(find_duplicates(downtier(recipe)))
+        self.assertFalse(find_duplicates(sidetier(recipe)))
