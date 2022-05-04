@@ -93,22 +93,20 @@ def balance_recipe_temperature(recipe):
 
 
 def sidetier(recipe, found=[]):
-    sidetiered_recipes = []
-    recurse_on = []
-    for slot in recipe.keys():
-        for i, new_recipe in enumerate(sidetier_ingredient(slot, recipe)):
-            if i == 0:
-                recurse_on.append(new_recipe)
-            if new_recipe not in found:
-                sidetiered_recipes.append(new_recipe)
+    sidetiered_recipes = [
+        new_recipe
+        for slot in recipe.keys()
+        for new_recipe in sidetier_ingredient(slot, recipe)
+        if new_recipe not in found
+    ]
 
     if not sidetiered_recipes:
         return []
 
     return sidetiered_recipes + [
         j
-        for i in recurse_on
-        for j in sidetier(i, [recipe] + found + sidetiered_recipes)
+        for i in sidetiered_recipes
+        for j in sidetier(i, found + sidetiered_recipes)
     ]
 
 
@@ -137,19 +135,22 @@ def downtier_ingredient(slot, recipe):
 
 
 def downtier(recipe, furnace_capacity=14, found=[]):
-    downtiered_recipes = []
-    recurse_on = []
-    for slot in recipe.keys():
-        for i, new_recipe in enumerate(downtier_ingredient(slot, recipe)):
-            if count_num_herbs(new_recipe) <= furnace_capacity:
-                downtiered_recipes.append(new_recipe)
+    downtiered_recipes = [
+        new_recipe
+        for slot in recipe.keys()
+        for new_recipe in downtier_ingredient(slot, recipe)
+        if count_num_herbs(new_recipe) <= furnace_capacity and new_recipe not in found
+    ]
 
-                # Only recurse on the first of the downtiered recipes for each slot
-                # to reduce the number of duplicate recipes generated
-                if i == 0:
-                    downtiered_recipes + downtier(new_recipe, furnace_capacity, [recipe] + found + downtiered_recipes)
+    if not downtiered_recipes:
+        return []
 
-    return downtiered_recipes
+    return downtiered_recipes + [
+        j
+        for i in downtiered_recipes
+        for j in downtier(i, furnace_capacity, found + downtiered_recipes)
+    ]
+
 
 def print_recipe(recipe):
     print(
@@ -175,7 +176,13 @@ if __name__ == '__main__':
     recipe = get_recipes()[name]
 
     print_recipe(recipe)
-    for i in sorted(sidetier(recipe) + downtier(recipe), key=calculate_price, reverse=True):
+
+    found = []
+    for i in sidetier(recipe) + downtier(recipe):
+        if i not in found:
+            found.append(i)
+
+    for i in sorted(found, key=calculate_price, reverse=True):
         print_recipe(i)
 
 from unittest import TestCase, skip
@@ -215,24 +222,11 @@ class TestRecipes(TestCase):
 
     def test_that_recipes_can_be_sidetiered(self):
         recipes = get_recipes()
+        for i in sidetier(recipes['Greater Healing Elixir']):
+            print_recipe(i)
         self.assertTrue(len(sidetier(recipes['Greater Healing Elixir'])) > 10)
 
-    def test_that_alternate_recipes_can_be_generate_without_duplicates(self):
-        def find_duplicates(candidates):
-            found = []
-            duplicates = []
-            for i in candidates:
-                if i not in found:
-                    found.append(i)
-                elif i not in duplicates:
-                    duplicates.append(i)
-            return duplicates
-
-        def print_duplicate_recipes(candidates):
-            for i in find_duplicates(candidates):
-                print_recipe(i)
-
+    def test_that_alternate_recipes_can_be_generate(self):
         recipe = get_recipes()['Wellspring Elixir']
         alternate_recipes = [ i for i in downtier(recipe) + sidetier(recipe) ]
-        self.assertFalse(find_duplicates(alternate_recipes))
-
+        self.assertTrue(len(sorted(alternate_recipes, key=calculate_price, reverse=True)) > 50)
