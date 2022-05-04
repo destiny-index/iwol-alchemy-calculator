@@ -188,12 +188,16 @@ def calculate_price(recipe):
 if __name__ == '__main__':
     name = sys.argv[1]
 
+    furnace_capacity = 14
+    if len(sys.argv) > 2:
+        furnace_capacity = int(sys.argv[2])
+
     recipe = get_recipes()[name]
 
     found = []
     print_recipe(recipe)
-    for i in sidetier(recipe):
-        for j in downtier(i):
+    for i in sidetier(recipe, furnace_capacity):
+        for j in downtier(i, furnace_capacity):
             if j not in found:
                 found.append(j)
 
