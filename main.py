@@ -86,28 +86,29 @@ def sidetier_ingredient(slot, recipe, furnace_capacity):
     qty = recipe[slot]['quantity']
     property = get_fixed_herb_property(herb, slot)
 
-    sidetiered_recipe = [
+    sidetiered_recipes = [
         { **recipe, slot: { 'herb': new_herb, 'quantity': qty } }
         for new_herb in herbs_by(grade=herb.Grade, property=property)
         if new_herb != herb
     ]
 
     if is_slot_splittable(slot, recipe, furnace_capacity):
-        sidetiered_recipe.extend([
+        split_slot_recipes = [
             {
                 **recipe,
                 slot: { 'herb': j[slot]['herb'], 'quantity': qty - i },
                 slot + ' 2': { 'herb': j[slot]['herb'], 'quantity': i }
             }
             for i in range(1, int(qty))
-            for j in sidetiered_recipe
-        ])
+            for j in sidetiered_recipes + [recipe]
+        ]
+        sidetiered_recipes.extend(split_slot_recipes)
 
     if slot == 'Temperature': # No temperatures have changed
-        return sidetiered_recipe
+        return sidetiered_recipes
 
     # Figure out the correct temperature herbs for the sidetiered recipes
-    return [ b for r in sidetiered_recipe for b in balance_recipe_temperature(r) ]
+    return [ b for r in sidetiered_recipes for b in balance_recipe_temperature(r) ]
 
 def balance_recipe_temperature(recipe):
     herb = recipe['Temperature']['herb']
@@ -274,6 +275,8 @@ class TestRecipes(TestCase):
 
     @skip
     def test_(self):
-        for i in sidetier(get_recipes()['Wild Beast Elixir']):
-            for j in downtier(i):
-                print_recipe(i)
+        for i in sidetier(get_recipes()['Speed Orb Elixir'], furnace_capacity=13):
+            print_recipe(i)
+            for j in downtier(i, furnace_capacity=13):
+                print(count_num_herbs(j))
+                print_recipe(j)
