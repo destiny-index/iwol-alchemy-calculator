@@ -280,15 +280,12 @@ def generate_all_recipes_for(name, furnace_capacity=14):
     recipe = get_recipes()[name]
 
     found = [recipe]
-    for i in uptier(recipe, furnace_capacity, found):
+    for i in [recipe] + uptier(recipe, furnace_capacity, found) + sidetier(recipe, furnace_capacity, found):
         if i not in found:
             found.append(i)
-        for j in sidetier(i, furnace_capacity, found):
-            if j not in found:
-                found.append(j)
-            for k in downtier(j, furnace_capacity, found):
-                if k not in found:
-                    found.append(k)
+            for j in downtier(i, furnace_capacity, found):
+                if j not in found:
+                    found.append(j)
     return found
 
 
@@ -300,6 +297,22 @@ if __name__ == '__main__':
         furnace_capacity = int(sys.argv[2])
 
     print_recipes(generate_all_recipes_for(name, furnace_capacity))
+
+
+from flask import Flask, request, jsonify
+app = Flask(__name__)
+
+@app.route('/recipes')
+def read_recipes():
+    name = request.args.get('name')
+    recipes = generate_all_recipes_for(name)
+
+    result = sorted(
+        [ recipe_to_dict(recipe) for recipe in recipes ],
+        key=lambda r: (r['cost'], r['complexity'])
+    )
+    return jsonify(result)
+
 
 from unittest import TestCase, skip
 class TestRecipes(TestCase):
@@ -346,7 +359,8 @@ class TestRecipes(TestCase):
         self.assertEqual(6, len(uptier(recipes['Pure Heart Soul Tempering Elixir'])))
 
     def test_that_all_recipes_can_be_generated_for_name(self):
-        self.assertEqual(310, len(generate_all_recipes_for('Pure Heart Soul Tempering Elixir')))
+        self.assertEqual(112, len(generate_all_recipes_for('Pure Heart Soul Tempering Elixir')))
+        self.assertEqual(4736, len(generate_all_recipes_for('Bloodrend Elixir')))
 
     def test_that_alternate_recipes_can_be_generate_without_duplicates(self):
         def find_duplicates(candidates):
