@@ -1,13 +1,13 @@
 from flask import Flask, request, jsonify, url_for, render_template
 from urllib.parse import urlencode
-from main import generate_all_recipes_for, recipes_to_sorted_dicts, get_elixirs, get_recipe_slots
+from main import generate_all_recipes_for, recipes_to_sorted_dicts, get_elixirs, get_recipe_slots, only_minimal
 
 app = Flask(__name__)
 
 @app.route('/recipes/<name>')
 def recipes(name):
     capacity = request.args.get('capacity', default=14, type=int)
-    recipes = generate_all_recipes_for(name, furnace_capacity=capacity)
+    recipes = only_minimal(generate_all_recipes_for(name, furnace_capacity=capacity))
 
     return render_template(
         'recipes.html',

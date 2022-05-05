@@ -319,12 +319,38 @@ def generate_all_recipes_for(name, furnace_capacity=14):
                     found.append(j)
     return found
 
+def only_minimal(recipes):
+    return [ r for r in recipes if not is_bloated(r) ]
+
+def is_bloated(recipe):
+    primary = is_slot_stackable('Primary', recipe) and is_temperature_balanced_without_slot('Primary 2', recipe)
+    secondary = is_slot_stackable('Secondary', recipe) and is_temperature_balanced_without_slot('Secondary 2', recipe)
+    both = (
+        is_slot_stackable('Primary', recipe) and
+        is_slot_stackable('Secondary', recipe) and
+        is_recipe_balanced({ key: recipe[key] for key in recipe if key != 'primary2' and key != 'secondary2' })
+    )
+    return primary or secondary or both
+
+def is_temperature_balanced_without_slot(slot, recipe):
+    return is_recipe_balanced({ key: recipe[key] for key in recipe if key != slot })
+
+def is_recipe_balanced(recipe):
+    return get_balancing_temperature(recipe) == recipe['Temperature']['herb'].Temperature
+
+def is_slot_stackable(slot, recipe):
+    return (
+        slot in recipe and
+        slot + ' 2' in recipe and
+        recipe[slot]['herb'] == recipe[slot + ' 2']['herb']
+    )
+
 
 if __name__ == '__main__':
     name = sys.argv[1]
     furnace_capacity = int(sys.argv[2]) if len(sys.argv) > 2 else 14
 
-    print_recipes(generate_all_recipes_for(name, furnace_capacity))
+    print_recipes(only_minimal(generate_all_recipes_for(name, furnace_capacity)))
 
 
 from unittest import TestCase, skip
@@ -404,3 +430,8 @@ class TestRecipes(TestCase):
         recipes = get_recipes()
         self.assertEqual('Qi Guidance Elixir', recipe_to_dict(recipes['Qi Guidance Elixir'])['name'])
         self.assertEqual(114, recipe_to_dict(recipes['Qi Guidance Elixir'])['value'])
+
+    def test_that_non_minimal_recipes_can_be_detected(self):
+        recipes = sort_recipes(generate_all_recipes_for('Vitality Shard Elixir'), reverse=False)
+        self.assertFalse(is_bloated(recipes[0]))
+        self.assertTrue(is_bloated(recipes[1]))
