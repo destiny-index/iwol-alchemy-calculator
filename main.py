@@ -323,17 +323,6 @@ if __name__ == '__main__':
     print_recipes(generate_all_recipes_for(name, furnace_capacity))
 
 
-from flask import Flask, request, jsonify
-app = Flask(__name__)
-
-@app.route('/recipes')
-def read_recipes():
-    name = request.args.get('name')
-    recipes = generate_all_recipes_for(name)
-
-    return jsonify(recipes_to_sorted_dicts(recipes))
-
-
 from unittest import TestCase, skip
 class TestRecipes(TestCase):
     def test_that_herbs_can_be_loaded_from_spreadsheet(self):
