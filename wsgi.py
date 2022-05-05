@@ -9,23 +9,32 @@ def recipes(name):
     capacity = request.args.get('capacity', default=14, type=int)
     recipes = only_minimal(generate_all_recipes_for(name, furnace_capacity=capacity))
 
+    elixir = next(e for e in get_elixirs_as_dicts() if e['name'] == name)
+
     return render_template(
         'recipes.html',
         name=name,
+        elixir=elixir,
         capacity=capacity,
         recipes=recipes_to_sorted_dicts(recipes, reverse=False)
     )
 
+
 @app.route('/')
 def home():
-    elixirs = [
+    return render_template('index.html', elixirs=get_elixirs_as_dicts())
+
+
+def get_elixirs_as_dicts():
+    return [
         {
             'grade': elixir.grade,
             'type': elixir.type,
             'name': elixir.name,
             'effect': elixir.effect,
+            'resistance': elixir.resistance,
             'recipes': url_for('recipes', name=elixir.name)
         }
         for elixir in get_elixirs()
     ]
-    return render_template('index.html', elixirs=elixirs)
+

@@ -12,6 +12,7 @@
         <th>type
         <th>name
         <th>effect
+        <th>resistance
     <tbody>
     {% for e in elixirs %}
       <tr>
@@ -19,5 +20,6 @@
         <td>{{e.type}}
         <td><a href="{{e.recipes}}">{{e.name}}</a>
         <td>{{e.effect}}
+        <td>{{e.resistance}}
     {% endfor %}
   </table>
