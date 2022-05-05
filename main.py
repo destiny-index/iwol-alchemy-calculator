@@ -282,9 +282,9 @@ def print_recipe(recipe):
     print(json.dumps(recipe_to_dict(recipe), indent=2))
 
 
-def sort_recipes(recipes):
+def sort_recipes(recipes, reverse=True):
     criteria = lambda r: (calculate_price(r), calculate_herb_types(r), calculate_slots(r))
-    return sorted(recipes, key=criteria, reverse=True)
+    return sorted(recipes, key=criteria, reverse=reverse)
 
 
 def recipes_to_sorted_dicts(recipes):
