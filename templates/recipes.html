@@ -11,24 +11,25 @@ table {
 <body>
   <a href="/">⇐ Back</a>
 
+  <h4>{{name}}</h4>
+  <blockquote>{{elixir.effect}}</blockquote>
+
   <table>
     <thead>
       <tr>
         <th>grade
         <th>type
         <th>name
-        <th>effect
         <th>resistance
     <tbody>
       <tr>
         <td class="T{{elixir.grade}}">{{elixir.grade}}
         <td>{{elixir.type}}
         <td><a href="{{elixir.recipes}}">{{elixir.name}}</a>
-        <td>{{elixir.effect}}
         <td>{{elixir.resistance}}
   </table>
 
-  <h4>{{name}}</h4>
+  <hr>
 
   <nav>
   {% for i in range(9,15) %}
