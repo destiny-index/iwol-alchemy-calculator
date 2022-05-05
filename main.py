@@ -268,7 +268,7 @@ def recipe_to_dict(recipe):
             'quantity': int(recipe[slot]['quantity']),
             **herb_to_dict(recipe[slot]['herb'], slot)
         }
-        for slot in possible_slots if slot in recipe
+        for slot in get_recipe_slots(recipe)
     }
     return {
         'name': recipe['name'],
@@ -407,3 +407,8 @@ class TestRecipes(TestCase):
 
     def test_that_elixirs_can_be_loaded_from_spreadsheet(self):
         self.assertEqual(126, len(get_elixirs()))
+
+    def test_that_recipe_can_be_converted_to_dict(self):
+        recipes = get_recipes()
+        self.assertEqual('Qi Guidance Elixir', recipe_to_dict(recipes['Qi Guidance Elixir'])['name'])
+        self.assertEqual(114, recipe_to_dict(recipes['Qi Guidance Elixir'])['value'])
