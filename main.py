@@ -223,49 +223,52 @@ def uptier_ingredient(slot, recipe, furnace_capacity=14):
     return [ b for r in uptiered_recipes for b in balance_recipe_temperature(r) ]
 
 
+def calculate_slots(recipe):
+    return len(recipe.items())
 
-def recipe_to_dict(recipe):
-    slots = [
-        { 'slot': slot, 'qty': ingredient['quantity'], 'herb': ingredient['herb'].Name }
-        for slot, ingredient in sorted(recipe.items(), key=lambda i: i[0])
-    ]
-
+def calculate_herb_types(recipe):
     herbs = []
-    for s in slots:
+    for s in recipe.values():
         if s['herb'] not in herbs:
             herbs.append(s['herb'])
+    return len(herbs)
 
+
+def herb_to_dict(herb, slot):
     return {
-        'primary': find_slot('Primary', slots),
-        'primary2': find_slot('Primary 2', slots),
-        'secondary': find_slot('Secondary', slots),
-        'secondary2': find_slot('Secondary 2', slots),
-        'temperature': find_slot('Temperature', slots),
-        'slots': len(slots),
-        'herbTypes': len(herbs),
-        'complexity': len(herbs) + len(slots),
-        'cost':  calculate_price(recipe),
+        'name': herb.Name,
+        'grade': 'T{:0.0f}'.format(herb.Grade),
+        'property': get_fixed_herb_property(herb, slot) if slot != 'Temperature' else None,
+        'temperature': get_fixed_herb_property(herb, 'Temperature'),
     }
 
-
-def find_slot(name, slots):
-    found = next((s for s in slots if 'slot' in s and s['slot'] == name), None)
-    if found:
-        del found['slot']
-        return found
-    return None
+def recipe_to_dict(recipe):
+    possible_slots = [ 'Primary', 'Primary 2', 'Secondary', 'Secondary 2', 'Temperature' ]
+    as_dict = {
+        slot.lower().replace(' ', ''): {
+            'quantity': int(recipe[slot]['quantity']),
+            **herb_to_dict(recipe[slot]['herb'], slot)
+        }
+        for slot in possible_slots if slot in recipe
+    }
+    return { **as_dict, 'cost': int(calculate_price(recipe)) }
 
 
 def print_recipe(recipe):
     print(json.dumps(recipe_to_dict(recipe), indent=2))
 
 
+def sort_recipes(recipes):
+    criteria = lambda r: (calculate_price(r), calculate_herb_types(r), calculate_slots(r))
+    return sorted(recipes, key=criteria, reverse=True)
+
+
+def recipes_to_sorted_dicts(recipes):
+    return [ recipe_to_dict(recipe) for recipe in sort_recipes(recipes) ]
+
+
 def print_recipes(recipes):
-    result = sorted(
-        [ recipe_to_dict(recipe) for recipe in recipes ],
-        key=lambda r: (r['cost'], r['complexity']),
-        reverse=True
-    )
+    result = recipes_to_sorted_dicts(recipes)
     print(json.dumps(result, indent=2))
 
 
@@ -307,11 +310,7 @@ def read_recipes():
     name = request.args.get('name')
     recipes = generate_all_recipes_for(name)
 
-    result = sorted(
-        [ recipe_to_dict(recipe) for recipe in recipes ],
-        key=lambda r: (r['cost'], r['complexity'])
-    )
-    return jsonify(result)
+    return jsonify(recipes_to_sorted_dicts(recipes))
 
 
 from unittest import TestCase, skip
@@ -361,6 +360,11 @@ class TestRecipes(TestCase):
     def test_that_all_recipes_can_be_generated_for_name(self):
         self.assertEqual(112, len(generate_all_recipes_for('Pure Heart Soul Tempering Elixir')))
         self.assertEqual(4736, len(generate_all_recipes_for('Bloodrend Elixir')))
+
+    def test_that_recipes_can_be_sorted(self):
+        swordsage_recipes = generate_all_recipes_for('Swordsage Elixir')
+        *rest, last = sort_recipes(swordsage_recipes)
+        self.assertEqual(1, calculate_herb_types(last))
 
     def test_that_alternate_recipes_can_be_generate_without_duplicates(self):
         def find_duplicates(candidates):
