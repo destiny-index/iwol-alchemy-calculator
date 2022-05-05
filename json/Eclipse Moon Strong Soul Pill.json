@@ -1,0 +1,7130 @@
+[
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Astral Soul Herb",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Lotus Essence",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Chaosborn Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jadecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Moonspirit Blossom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 8640,
+    "value": 5000,
+    "profit": -3640
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Astral Soul Herb",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Lotus Essence",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Chaosborn Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jadecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Moonspirit Blossom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Astral Soul Herb",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Lotus Essence",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Chaosborn Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jadecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Moonspirit Blossom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Bodhi Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Dragonhunter Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Dragonscale Cone",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Gastclaw Thorn",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6840,
+    "value": 5000,
+    "profit": -1840
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Astral Soul Herb",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Lotus Essence",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Chaosborn Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jadecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Moonspirit Blossom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Astral Soul Herb",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Lotus Essence",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Chaosborn Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jadecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Moonspirit Blossom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 12,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Astral Soul Herb",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Lotus Essence",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Chaosborn Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jadecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Moonspirit Blossom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 12,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 12,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 6048,
+    "value": 5000,
+    "profit": -1048
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Astral Soul Herb",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Lotus Essence",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Chaosborn Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jadecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Moonspirit Blossom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bitterwood Vine",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Blood Bodhi Fruit",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earth Dragon Bark",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Foul Tyrant Flower",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Phoenix Bloodberry",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvergleam Shroom",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Umbral Sky Seed",
+      "grade": "T4",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Fellsoul Lily",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Bodhi Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Dragonhunter Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Dragonscale Cone",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Gastclaw Thorn",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Intestinal Erosion",
+      "grade": "T4",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Bodhi Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Dragonhunter Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Dragonscale Cone",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Gastclaw Thorn",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Flamecore Shroom",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 1,
+      "name": "Hellfacade Petal",
+      "grade": "T4",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 5040,
+    "value": 5000,
+    "profit": -40
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Bodhi Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Dragonhunter Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Dragonscale Cone",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Gastclaw Thorn",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  },
+  {
+    "name": "Eclipse Moon Strong Soul Pill",
+    "primary": {
+      "quantity": 4,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 4,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": "Focusing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 4,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 3240,
+    "value": 5000,
+    "profit": 1760
+  }
+]

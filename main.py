@@ -367,7 +367,7 @@ class TestRecipes(TestCase):
 
     def test_that_recipes_can_be_uptiered(self):
         recipes = get_recipes()
-        self.assertEqual(152, len(uptier(recipes['Vitality Orb Elixir'])))
+        self.assertEqual(171, len(uptier(recipes['Vitality Orb Elixir'])))
         self.assertEqual(6, len(uptier(recipes['Pure Heart Soul Tempering Elixir'])))
 
     def test_that_all_recipes_can_be_generated_for_name(self):
@@ -376,8 +376,8 @@ class TestRecipes(TestCase):
 
     def test_that_recipes_can_be_sorted(self):
         swordsage_recipes = generate_all_recipes_for('Swordsage Elixir')
-        *rest, last = sort_recipes(swordsage_recipes)
-        self.assertEqual(1, calculate_herb_types(last))
+        head, *tail = sort_recipes(swordsage_recipes, reverse=False)
+        self.assertEqual(1, calculate_herb_types(head))
 
     def test_that_alternate_recipes_can_be_generate_without_duplicates(self):
         def find_duplicates(candidates):

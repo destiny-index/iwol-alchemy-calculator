@@ -1,0 +1,719 @@
+[
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 342,
+    "value": 224,
+    "profit": -118
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 342,
+    "value": 224,
+    "profit": -118
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 342,
+    "value": 224,
+    "profit": -118
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 342,
+    "value": 224,
+    "profit": -118
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 342,
+    "value": 224,
+    "profit": -118
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 342,
+    "value": 224,
+    "profit": -118
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 336,
+    "value": 224,
+    "profit": -112
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 336,
+    "value": 224,
+    "profit": -112
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Jade Dragon Ginseng",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 336,
+    "value": 224,
+    "profit": -112
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Jade Dragon Ginseng",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 336,
+    "value": 224,
+    "profit": -112
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Everheart Clover",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 336,
+    "value": 224,
+    "profit": -112
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 336,
+    "value": 224,
+    "profit": -112
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Jade Dragon Ginseng",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 336,
+    "value": 224,
+    "profit": -112
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Jade Dragon Ginseng",
+      "grade": "T3",
+      "property": "Purifying",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 336,
+    "value": 224,
+    "profit": -112
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Purifying",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 144,
+    "value": 224,
+    "profit": 80
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Purifying",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 144,
+    "value": 224,
+    "profit": 80
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Purifying",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 144,
+    "value": 224,
+    "profit": 80
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Purifying",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 144,
+    "value": 224,
+    "profit": 80
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Purifying",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 144,
+    "value": 224,
+    "profit": 80
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Purifying",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 144,
+    "value": 224,
+    "profit": 80
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Purifying",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 144,
+    "value": 224,
+    "profit": 80
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Purifying",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 138,
+    "value": 224,
+    "profit": 86
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Purifying",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 138,
+    "value": 224,
+    "profit": 86
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Purifying",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 138,
+    "value": 224,
+    "profit": 86
+  },
+  {
+    "name": "Lesser Purity Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Purifying",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": "Detoxing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 138,
+    "value": 224,
+    "profit": 86
+  }
+]

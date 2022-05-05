@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvermoon Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Tranquil Dahlia",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvermoon Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Tranquil Dahlia",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvermoon Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Tranquil Dahlia",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silvermoon Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Tranquil Dahlia",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 54,
+    "value": 114,
+    "profit": 60
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 48,
+    "value": 114,
+    "profit": 66
+  },
+  {
+    "name": "Qi Guidance Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": "Condensing",
+      "temperature": "Heat"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Everheart Clover",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 48,
+    "value": 114,
+    "profit": 66
+  }
+]

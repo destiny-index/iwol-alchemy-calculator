@@ -1,0 +1,126 @@
+Qi Guidance Elixir
+Qi Caller Elixir
+Earthcaller Elixir
+Firecaller Elixir
+Metalcaller Elixir
+Watercaller Elixir
+Woodcaller Elixir
+Wild Beast Elixir
+Unmoving Stone Elixir
+Scorching Sun Elixir
+Gleaming Edge Elixir
+Flowing Pool Elixir
+Thriving Vine Elixir
+Bloodrend Elixir
+Flashburn Elixir
+Frostmourn Elixir
+Venomglade Elixir
+Cliffrend Elixir
+Twinedged Elixir
+Spirecrag Elixir
+Emberlight Elixir
+Truesteel Elixir
+Wellspring Elixir
+Forestgrove Elixir
+Flamefade Elixir
+Panacea Elixir
+Tortoise Elixir
+Barkskin Elixir
+Stoneskin Elixir
+Great Tortoise Elixir
+Xuanwu Elixir
+Mind Clearing Elixir
+Eclipse Moon Strong Soul Pill
+Wind Movement Elixir
+Swordsong Elixir
+Swordsage Elixir
+Foundation Elixir
+Earth Core Elixir
+Fire Core Elixir
+Metal Core Elixir
+Water Core Elixir
+Wood Core Elixir
+Core Condensing Elixir
+Pulse Forging Pill
+Great Awakening Elixir
+Five Qi Elixir
+Great Revitalising Elixir
+Meridian Protection Elixir
+Rebirth Elixir
+Heavenly Fate Tempering Elixir
+Chaos Immortal Form Elixir
+Pure Heart Soul Tempering Elixir
+Minor Qi Elixir
+Moderate Qi Elixir
+Lesser Qi Elixir
+Greater Qi Elixir
+Expert Qi Elixir
+Master Qi Elixir
+Divine Qi Elixir
+Origin Dao Elixir
+Earth Dao Elixir
+Fire Dao Elixir
+Metal Dao Elixir
+Soul Dao Elixir
+Sword Dao Elixir
+Water Dao Elixir
+Wood Dao Elixir
+True Earth Elixir
+True Fire Elixir
+True Dao Elixir
+True Metal Elixir
+True Soul Elixir
+True Sword Elixir
+True Water Elixir
+True Wood Elixir
+Novice Healing Elixir
+Minor Healing Elixir
+Lesser Healing Elixir
+Moderate Healing Elixir
+Greater Healing Elixir
+Expert Healing Elixir
+Master Healing Elixir
+Divine Healing Elixir
+Lesser Longevity Elixir
+Greater Longevity Elixir
+Expert Longevity Elixir
+Master Longevity Elixir
+Divine Longevity Elixir
+Ice Heart Elixir
+Bright Heart Elixir
+True Heart Elixir
+Tempered Heart Elixir
+Azure Heart Elixir
+Divine Heart Elixir
+Fey Attraction Draught
+Fey Repulsion Draught
+Lesser Purity Elixir
+Greater Purity Elixir
+Expert Purity Elixir
+Master Purity Elixir
+Divine Purity Elixir
+Talent Spark Elixir
+Talent Shard Elixir
+Talent Orb Elixir
+Divine Talent Elixir
+Wisdom Spark Elixir
+Wisdom Shard Elixir
+Wisdom Orb Elixir
+Divine Wisdom Elixir
+Origin Earth Elixir
+Origin Fire Elixir
+Origin Metal Elixir
+Origin Water Elixir
+Origin Wood Elixir
+Vitality Spark Elixir
+Vitality Shard Elixir
+Vitality Orb Elixir
+Divine Vitality Elixir
+Soul Spark Elixir
+Soul Shard Elixir
+Soul Orb Elixir
+Divine Soul Elixir
+Speed Spark Elixir
+Speed Shard Elixir
+Speed Orb Elixir
+Divine Speed Elixir

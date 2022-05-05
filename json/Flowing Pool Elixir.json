@@ -1,0 +1,2926 @@
+[
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 96,
+    "value": 184,
+    "profit": 88
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Everheart Clover",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Everheart Clover",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 90,
+    "value": 184,
+    "profit": 94
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Everheart Clover",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Everheart Clover",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 84,
+    "value": 184,
+    "profit": 100
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 78,
+    "value": 184,
+    "profit": 106
+  },
+  {
+    "name": "Flowing Pool Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 1,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": "Water",
+      "temperature": "Cold"
+    },
+    "secondary2": {
+      "quantity": 3,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": "Chaos",
+      "temperature": "Balanced"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 78,
+    "value": 184,
+    "profit": 106
+  }
+]

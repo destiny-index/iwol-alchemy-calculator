@@ -1,0 +1,7958 @@
+[
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bodhi Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonhunter Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonscale Cone",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gastclaw Thorn",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonvein Leaf",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Ape Faced Lilac",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Feyborn Fern",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jade Dragon Ginseng",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Nine Forked Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Scentwood Sap",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Snowdew Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Stonedrake Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1350,
+    "value": 1450,
+    "profit": 100
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Ape Faced Lilac",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonvein Leaf",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Feyborn Fern",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jade Dragon Ginseng",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Nine Forked Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Scentwood Sap",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Snowdew Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Stonedrake Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bodhi Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonhunter Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonscale Cone",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gastclaw Thorn",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Ape Faced Lilac",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonvein Leaf",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Feyborn Fern",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jade Dragon Ginseng",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Nine Forked Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Scentwood Sap",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Snowdew Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Stonedrake Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bodhi Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonhunter Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonscale Cone",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gastclaw Thorn",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Windborn Palm",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1152,
+    "value": 1450,
+    "profit": 298
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 9,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 9,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 9,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 9,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 9,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 9,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 9,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 9,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 9,
+      "name": "Azuresky Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 9,
+      "name": "Ebbglow Stalk",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 9,
+      "name": "Bloodstaunch Holly",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 9,
+      "name": "Everheart Clover",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 9,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 9,
+      "name": "Calming Fern",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 9,
+      "name": "Silvermoon Flower",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 9,
+      "name": "Tranquil Dahlia",
+      "grade": "T1",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 1134,
+    "value": 1450,
+    "profit": 316
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Windborn Palm",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Windborn Palm",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Heavenward Berry",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Mirage Heart",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Silkdew Pitcher",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Skymend Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Stormwind Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Swordheart Bamboo",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bodhi Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonhunter Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonscale Cone",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gastclaw Thorn",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Ape Faced Lilac",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonvein Leaf",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Feyborn Fern",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jade Dragon Ginseng",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Nine Forked Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Scentwood Sap",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Snowdew Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Stonedrake Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 2,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 954,
+    "value": 1450,
+    "profit": 496
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bodhi Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonhunter Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonscale Cone",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gastclaw Thorn",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Ape Faced Lilac",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonvein Leaf",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Feyborn Fern",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jade Dragon Ginseng",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Nine Forked Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Scentwood Sap",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Snowdew Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Stonedrake Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Bodhi Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonhunter Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonscale Cone",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gastclaw Thorn",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Earthcore Ginseng",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Hecrown Root",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Sepastra Herb",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Skyborne Fruit",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Viperspit Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Petrificious Root",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Lanternlight Aloe",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Windborn Palm",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Ape Faced Lilac",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Dragonvein Leaf",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Feyborn Fern",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Jade Dragon Ginseng",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Nine Forked Shroom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Pureheart Lotus",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Scentwood Sap",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Snowdew Blossom",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Stonedrake Fruit",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Clearfrost Petal",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 1,
+      "name": "Glacial Fruit",
+      "grade": "T3",
+      "property": "Agitating",
+      "temperature": "Cold"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Heat"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 756,
+    "value": 1450,
+    "profit": 694
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Summerdust Straw",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Windborn Palm",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Deep Aloe",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Ironvein Leaf",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Redveil Fern",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Wispfey Flower",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Dragon Berry",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Nightryst Vine",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Waterglade Lily",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Heat"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Windborn Palm",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Cold"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Panacea Dew",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  },
+  {
+    "name": "Fire Core Elixir",
+    "primary": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": "Agitating",
+      "temperature": "Balanced"
+    },
+    "secondary": {
+      "quantity": 6,
+      "name": "Firelight Jujube",
+      "grade": "T2",
+      "property": "Fire",
+      "temperature": "Heat"
+    },
+    "secondary2": {
+      "quantity": 1,
+      "name": "Gloomglade Wood",
+      "grade": "T3",
+      "property": "Congealing",
+      "temperature": "Cold"
+    },
+    "temperature": {
+      "quantity": 3,
+      "name": "Sword Reed",
+      "grade": "T2",
+      "property": null,
+      "temperature": "Balanced"
+    },
+    "cost": 558,
+    "value": 1450,
+    "profit": 892
+  }
+]
