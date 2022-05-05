@@ -435,3 +435,23 @@ class TestRecipes(TestCase):
         recipes = sort_recipes(generate_all_recipes_for('Vitality Shard Elixir'), reverse=False)
         self.assertFalse(is_bloated(recipes[0]))
         self.assertTrue(is_bloated(recipes[1]))
+
+    @skip
+    def test_that_herb_images_can_be_loaded_from_spreadsheet(self):
+        extract_images_to_static_dir()
+
+def extract_images_to_static_dir():
+    import openpyxl
+    from openpyxl_image_loader import SheetImageLoader
+
+    sheet = openpyxl.load_workbook(spreadsheet)['Herbs']
+    image_loader = SheetImageLoader(sheet)
+
+    for i in range(2,153):
+        name_cell = 'B' + str(i)
+        img_cell = 'J' + str(i)
+
+        herb_name = sheet[name_cell].value
+
+        if image_loader.image_in(img_cell):
+            image_loader.get(img_cell).save('static/images/{}.png'.format(herb_name))

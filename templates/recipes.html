@@ -7,6 +7,13 @@
 table {
   text-transform: capitalize;
 }
+td img {
+  display: block;
+  width: 100%;
+}
+td.image {
+  padding: 0;
+}
 </style>
 <body>
   <a href="/">⇐ Back</a>
@@ -47,6 +54,7 @@ table {
       <tr>
         <th>Slot
         <th>Grade
+        <th>Image
         <th>Name
         <th>Quantity
         <th>Property
@@ -57,6 +65,11 @@ table {
           <tr>
             <td>{{slot}}
             <td class="sunken {{r[slot]['grade']}}">{{r[slot]['grade']}}
+            <td class="image">
+              <img
+                src="/static/images/{{r[slot]['name']}}.png" alt="{{r[slot]['name']}}"
+                width="64" height="64"
+              >
             <td>{{r[slot]['name']}}
             <td>{{r[slot]['quantity']}}
             <td>{{r[slot]['property']}}

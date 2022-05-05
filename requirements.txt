@@ -1,3 +1,4 @@
 pandas==1.4.2
 openpyxl==3.0.9
+openpyxl-image-loader==1.0.5
 Flask==1.1.4
