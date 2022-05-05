@@ -45,7 +45,7 @@ def get_herb(name):
 
 
 def get_elixir(name):
-    return next((e for e in get_elixirs() if h.name == name), None)
+    return next((e for e in get_elixirs() if e.name == name), None)
 
 
 def count_num_herbs(recipe):
@@ -249,6 +249,10 @@ def calculate_herb_types(recipe):
             herbs.append(recipe[slot]['herb'])
     return len(herbs)
 
+def calculate_value(recipe):
+    elixir = get_elixir(recipe['name'])
+    return elixir.value * 2 if elixir else None
+
 
 def herb_to_dict(herb, slot):
     return {
@@ -266,7 +270,13 @@ def recipe_to_dict(recipe):
         }
         for slot in possible_slots if slot in recipe
     }
-    return { **as_dict, 'cost': int(calculate_price(recipe)) }
+    return {
+        'name': recipe['name'],
+        **as_dict,
+        'cost': int(calculate_price(recipe)),
+        'value': int(calculate_value(recipe)),
+        'profit': int(calculate_value(recipe) - calculate_price(recipe))
+    }
 
 
 def print_recipe(recipe):
@@ -309,10 +319,7 @@ def generate_all_recipes_for(name, furnace_capacity=14):
 
 if __name__ == '__main__':
     name = sys.argv[1]
-
-    furnace_capacity = 14
-    if len(sys.argv) > 2:
-        furnace_capacity = int(sys.argv[2])
+    furnace_capacity = int(sys.argv[2]) if len(sys.argv) > 2 else 14
 
     print_recipes(generate_all_recipes_for(name, furnace_capacity))
 
