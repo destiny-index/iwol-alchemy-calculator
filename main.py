@@ -21,11 +21,14 @@ def get_recipes():
     # Assemble the recipe from the rows that describe each ingredient slot
     recipes = {}
     for ingredient in data.itertuples():
-        if ingredient.recipe_name not in recipes:
-            recipes[ingredient.recipe_name] = { 'name': ingredient.recipe_name }
+        # Fix bugged recipe name
+        recipe_name = ingredient.recipe_name if ingredient.recipe_name != 'Battle - Soul Sense' else 'Eclipse Moon Strong Soul Pill'
+
+        if recipe_name not in recipes:
+            recipes[recipe_name] = { 'name': recipe_name }
 
         if isinstance(ingredient.herb, str):
-            recipes[ingredient.recipe_name][ingredient.slot] = {
+            recipes[recipe_name][ingredient.slot] = {
                 'quantity': ingredient.quantity,
                 'herb': get_herb(name=ingredient.herb)
             }
