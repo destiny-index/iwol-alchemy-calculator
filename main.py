@@ -57,7 +57,7 @@ def herbs_by(grade=None, property=None):
     to_avoid = [
         'Bloodrend Pearl',
         'Soulrend Pearl',
-        'Blood Bohdi Fruit',
+        'Blood Bodhi Fruit',
         'Crystalized Soul',
         'Dragon\'s Whiskers Vine',
         'Netherrealm Bone',
