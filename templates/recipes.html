@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang=en>
+<title>IWOL Alchemy</title>
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+<link rel="stylesheet" href="/static/styles.css">
+<style>
+table {
+  text-transform: capitalize;
+}
+</style>
+<body>
+  <a href="/">⇐ Back</a>
+
+  <h4>{{name}}</h4>
+
+  <nav>
+  {% for i in range(9,15) %}
+    {% if capacity == i: %}
+      <a href="" class="current">Furnace T{{i - 8}}</a>
+    {% else: %}
+      <a href="?capacity={{i}}">Furnace T{{i - 8}}</a>
+    {% endif %}
+  {% endfor %}
+  </nav>
+
+  {% for r in recipes %}
+  <table>
+    <thead>
+      <tr>
+        <th>Slot
+        <th>Grade
+        <th>Name
+        <th>Quantity
+        <th>Property
+        <th>Temperature
+    <tbody>
+      {% for slot in ['primary', 'primary2', 'secondary', 'secondary2', 'temperature'] %}
+        {% if slot in r: %}
+          <tr>
+            <td>{{slot}}
+            <td class="sunken {{r[slot]['grade']}}">{{r[slot]['grade']}}
+            <td>{{r[slot]['name']}}
+            <td>{{r[slot]['quantity']}}
+            <td>{{r[slot]['property']}}
+            <td>{{r[slot]['temperature']}}
+        {% endif %}
+      {% endfor %}
+      <tr>
+        <th>Cost
+        <td>{{r['cost']}}
+  </table>
+  {% endfor %}

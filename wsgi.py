@@ -1,24 +1,31 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, url_for, render_template
 from urllib.parse import urlencode
-from main import generate_all_recipes_for, recipes_to_sorted_dicts, get_elixirs
+from main import generate_all_recipes_for, recipes_to_sorted_dicts, get_elixirs, get_recipe_slots
 
 app = Flask(__name__)
 
-@app.route('/api/recipes')
-def read_recipes():
-    name = request.args.get('name')
+@app.route('/recipes/<name>')
+def recipes(name):
     capacity = request.args.get('capacity', default=14, type=int)
     recipes = generate_all_recipes_for(name, furnace_capacity=capacity)
 
-    return jsonify(recipes_to_sorted_dicts(recipes))
+    return render_template(
+        'recipes.html',
+        name=name,
+        capacity=capacity,
+        recipes=recipes_to_sorted_dicts(recipes, reverse=False)
+    )
 
-@app.route('/api/elixirs')
-def read_elixirs():
-    return jsonify([
+@app.route('/')
+def home():
+    elixirs = [
         {
+            'grade': elixir.grade,
+            'type': elixir.type,
             'name': elixir.name,
             'effect': elixir.effect,
-            'recipes': '/api/recipes?{}'.format(urlencode({ 'name': elixir.name }))
+            'recipes': url_for('recipes', name=elixir.name)
         }
         for elixir in get_elixirs()
-    ])
+    ]
+    return render_template('index.html', elixirs=elixirs)

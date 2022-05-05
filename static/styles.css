@@ -1,0 +1,46 @@
+table th {
+  text-transform: capitalize;
+}
+table td.sunkern {
+  box-shadow: inset 1px 1px 3px #999;
+}
+
+.T6 {
+  background-color: Brown;
+  color: White;
+}
+
+.T5 {
+  background-color: DarkGoldenRod;
+  color: White
+}
+
+.T4 {
+  background-color: DarkSlateBlue;
+  color: White
+}
+
+.T3 {
+  background-color: SteelBlue;
+  color: White
+}
+
+.T2 {
+  background-color: DarkOliveGreen;
+  color: White
+}
+
+.T1 {
+  background-color: DimGrey;
+  color: White
+}
+
+a.current {
+  pointer-events: none;
+  text-decoration: none;
+  color: White;
+}
+
+body nav a {
+  padding: 0.3rem;
+}

@@ -9,8 +9,8 @@ spreadsheet = 'IWOL Alchemy and Forging Guide.xlsx'
 
 @cache
 def get_elixirs():
-    names = ['name', 'effect', 'toxicity', 'resistance', 'value']
-    data = pd.read_excel(spreadsheet, sheet_name='Elixirs', usecols='B,D,E:G', names=names)
+    names = ['grade', 'name', 'type', 'effect', 'toxicity', 'resistance', 'value']
+    data = pd.read_excel(spreadsheet, sheet_name='Elixirs', usecols='A:G', names=names)
     return [i for i in data.itertuples()]
 
 @cache
@@ -90,7 +90,7 @@ def get_balancing_temperature(recipe):
 def is_slot_splittable(slot, recipe, furnace_capacity):
     return (
         (slot == 'Primary' and 'Primary 2' not in recipe and furnace_capacity == 14) or
-        (slot == 'Secondary' and 'Secondary 2' not in recipe)
+        (slot == 'Secondary' and 'Secondary 2' not in recipe and furnace_capacity > 9)
     )
 
 def get_fixed_herb_property(herb, slot):
@@ -290,8 +290,8 @@ def sort_recipes(recipes, reverse=True):
     return sorted(recipes, key=criteria, reverse=reverse)
 
 
-def recipes_to_sorted_dicts(recipes):
-    return [ recipe_to_dict(recipe) for recipe in sort_recipes(recipes) ]
+def recipes_to_sorted_dicts(recipes, reverse=True):
+    return [ recipe_to_dict(recipe) for recipe in sort_recipes(recipes, reverse) ]
 
 
 def print_recipes(recipes):
@@ -306,6 +306,7 @@ def calculate_price(recipe):
         for slot in get_recipe_slots(recipe)
     ])
 
+@cache
 def generate_all_recipes_for(name, furnace_capacity=14):
     recipe = get_recipes()[name]
 
