@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify
-from main import generate_all_recipes_for, recipes_to_sorted_dicts
+from urllib.parse import urlencode
+from main import generate_all_recipes_for, recipes_to_sorted_dicts, get_elixirs
 
 app = Flask(__name__)
 
@@ -10,3 +11,14 @@ def read_recipes():
     recipes = generate_all_recipes_for(name, furnace_capacity=capacity)
 
     return jsonify(recipes_to_sorted_dicts(recipes))
+
+@app.route('/api/elixirs')
+def read_elixirs():
+    return jsonify([
+        {
+            'name': elixir.name,
+            'effect': elixir.effect,
+            'recipes': '/api/recipes?{}'.format(urlencode({ 'name': elixir.name }))
+        }
+        for elixir in get_elixirs()
+    ])
