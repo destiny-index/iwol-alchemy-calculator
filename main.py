@@ -7,8 +7,6 @@ from functools import reduce, cache
 
 spreadsheet = 'IWOL Alchemy and Forging Guide.xlsx'
 
-possible_slots = [ 'Primary', 'Primary 2', 'Secondary', 'Secondary 2', 'Temperature' ]
-
 @cache
 def get_elixirs():
     names = ['name', 'effect', 'toxicity', 'resistance', 'value']
@@ -142,6 +140,7 @@ def balance_recipe_temperature(recipe):
 
 
 def get_recipe_slots(recipe):
+    possible_slots = [ 'Primary', 'Primary 2', 'Secondary', 'Secondary 2', 'Temperature' ]
     return [ slot for slot in recipe.keys() if slot in possible_slots ]
 
 
