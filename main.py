@@ -7,6 +7,14 @@ from functools import reduce, cache
 
 spreadsheet = 'IWOL Alchemy and Forging Guide.xlsx'
 
+possible_slots = [ 'Primary', 'Primary 2', 'Secondary', 'Secondary 2', 'Temperature' ]
+
+@cache
+def get_elixirs():
+    names = ['name', 'effect', 'toxicity', 'resistance', 'value']
+    data = pd.read_excel(spreadsheet, sheet_name='Elixirs', usecols='B,D,E:G', names=names)
+    return [i for i in data.itertuples()]
+
 @cache
 def get_recipes():
     names = ['grade', None, 'recipe_name', 'slot', 'quantity', 'herb', None, None, 'potency', 'property']
@@ -16,7 +24,7 @@ def get_recipes():
     recipes = {}
     for ingredient in data.itertuples():
         if ingredient.recipe_name not in recipes:
-            recipes[ingredient.recipe_name] = {}
+            recipes[ingredient.recipe_name] = { 'name': ingredient.recipe_name }
 
         if isinstance(ingredient.herb, str):
             recipes[ingredient.recipe_name][ingredient.slot] = {
@@ -36,8 +44,12 @@ def get_herb(name):
     return next((h for h in get_herbs() if h.Name == name), None)
 
 
+def get_elixir(name):
+    return next((e for e in get_elixirs() if h.name == name), None)
+
+
 def count_num_herbs(recipe):
-    return reduce(lambda total, slot: total + slot['quantity'], recipe.values(), 0)
+    return reduce(lambda total, slot: total + recipe[slot]['quantity'], get_recipe_slots(recipe), 0)
 
 
 def herbs_by(grade=None, property=None):
@@ -63,8 +75,8 @@ def herbs_by(grade=None, property=None):
 
 def get_balancing_temperature(recipe):
     temperatures = [
-        ingredient['herb'].Temperature
-        for slot, ingredient in recipe.items() if slot != 'Temperature'
+        recipe[slot]['herb'].Temperature
+        for slot in get_recipe_slots(recipe) if slot != 'Temperature'
     ]
     if temperatures.count('Cold') > temperatures.count('Heat'):
         return 'Heat'
@@ -129,10 +141,14 @@ def balance_recipe_temperature(recipe):
     ]
 
 
+def get_recipe_slots(recipe):
+    return [ slot for slot in recipe.keys() if slot in possible_slots ]
+
+
 def sidetier(recipe, furnace_capacity=14, found=[]):
     sidetiered_recipes = []
     recurse_on = []
-    for slot in recipe.keys():
+    for slot in get_recipe_slots(recipe):
         for i, new_recipe in enumerate(sidetier_ingredient(slot, recipe, furnace_capacity)):
             if i == 0:
                 recurse_on.append(new_recipe)
@@ -172,7 +188,7 @@ def downtier_ingredient(slot, recipe):
 
 def downtier(recipe, furnace_capacity=14, found=[]):
     downtiered_recipes = []
-    for slot in recipe.keys():
+    for slot in get_recipe_slots(recipe):
         for i, new_recipe in enumerate(downtier_ingredient(slot, recipe)):
             if count_num_herbs(new_recipe) <= furnace_capacity and new_recipe not in found:
                 downtiered_recipes.append(new_recipe)
@@ -188,7 +204,7 @@ def downtier(recipe, furnace_capacity=14, found=[]):
 
 def uptier(recipe, furnace_capacity=14, found=[]):
     uptiered = []
-    for slot, ingredient in recipe.items():
+    for slot in get_recipe_slots(recipe):
         for i, new_recipe in enumerate(uptier_ingredient(slot, recipe, furnace_capacity)):
             if new_recipe not in found and new_recipe not in uptiered:
                 uptiered.append(new_recipe)
@@ -228,9 +244,9 @@ def calculate_slots(recipe):
 
 def calculate_herb_types(recipe):
     herbs = []
-    for s in recipe.values():
-        if s['herb'] not in herbs:
-            herbs.append(s['herb'])
+    for slot in get_recipe_slots(recipe):
+        if recipe[slot]['herb'] not in herbs:
+            herbs.append(recipe[slot]['herb'])
     return len(herbs)
 
 
@@ -243,7 +259,6 @@ def herb_to_dict(herb, slot):
     }
 
 def recipe_to_dict(recipe):
-    possible_slots = [ 'Primary', 'Primary 2', 'Secondary', 'Secondary 2', 'Temperature' ]
     as_dict = {
         slot.lower().replace(' ', ''): {
             'quantity': int(recipe[slot]['quantity']),
@@ -275,8 +290,8 @@ def print_recipes(recipes):
 def calculate_price(recipe):
     pricing = { 1: 3, 2: 12, 3: 135, 4: 1440, 5: 13500, 6: 81000 }
     return sum([
-        pricing[ingredient['herb'].Grade] * ingredient['quantity'] * 2
-        for ingredient in recipe.values()
+        pricing[recipe[slot]['herb'].Grade] * recipe[slot]['quantity'] * 2
+        for slot in get_recipe_slots(recipe)
     ])
 
 def generate_all_recipes_for(name, furnace_capacity=14):
@@ -382,3 +397,6 @@ class TestRecipes(TestCase):
         self.assertFalse(find_duplicates(sidetier(recipe)))
         self.assertFalse(find_duplicates(uptier(recipe)))
         self.assertFalse(find_duplicates(generate_all_recipes_for('Pure Heart Soul Tempering Elixir')))
+
+    def test_that_elixirs_can_be_loaded_from_spreadsheet(self):
+        self.assertEqual(126, len(get_elixirs()))
