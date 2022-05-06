@@ -12,14 +12,14 @@
         <th>type
         <th>name
         <th>effect
-        <th>resistance
+        <th>price
     <tbody>
-    {% for e in elixirs %}
+    {% for elixir in elixirs %}
       <tr>
-        <td class="T{{e.grade}}">{{e.grade}}
-        <td>{{e.type}}
-        <td><a href="{{e.recipes}}">{{e.name}}</a>
-        <td>{{e.effect}}
-        <td>{{e.resistance}}
+        <td class="T{{elixir.grade}}">{{elixir.grade}}
+        <td>{{elixir.type}}
+        <td><a href="{{elixir.recipes}}">{{elixir.name}}</a>
+        <td>{{elixir.effect}}
+        <td>{{elixir.price}}
     {% endfor %}
   </table>

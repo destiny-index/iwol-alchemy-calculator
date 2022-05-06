@@ -28,13 +28,25 @@ td.image {
         <th>type
         <th>name
         <th>resistance
+        <th>price
+        <th>experience
     <tbody>
       <tr>
         <td class="T{{elixir.grade}}">{{elixir.grade}}
         <td>{{elixir.type}}
         <td>{{elixir.name}}
         <td>{{elixir.resistance}}
+        <td>{{elixir.price}}
+        <td>{{elixir.exp}}
   </table>
+
+  <p>
+    <strong>Note:</strong>
+    Experience is tripled for inventing your first recipe for the elixir.
+
+    Experience is halved if your Dao is two grades above the Elixir. There is
+    no experience if your Dao <em>more than two grades</em> above the Elixir.
+  </p>
 
   <hr>
 

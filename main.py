@@ -5,18 +5,24 @@ import sys
 import json
 from functools import reduce, cache
 
-spreadsheet = 'IWOL Alchemy and Forging Guide.xlsx'
+alchemy_guide = 'IWOL Alchemy and Forging Guide.xlsx'
+item_list = 'IWOL_Item_Steam_Build_8574886.xlsx'
 
 @cache
 def get_elixirs():
-    names = ['grade', 'name', 'type', 'effect', 'toxicity', 'resistance', 'value']
-    data = pd.read_excel(spreadsheet, sheet_name='Elixirs', usecols='A:G', names=names)
+    names = ['grade', 'name', 'type', 'toxicity', 'resistance']
+    elixirs = pd.read_excel(alchemy_guide, sheet_name='Elixirs', usecols='A:C,E:F', names=names)
+
+    names = ['name', 'value', 'effect', 'description']
+    items = pd.read_excel(item_list, sheet_name='d_items py datas', usecols='E,S:U', names=names)
+
+    data = elixirs.merge(items, on='name', how='left')
     return [i for i in data.itertuples()]
 
 @cache
 def get_recipes():
     names = ['grade', None, 'recipe_name', 'slot', 'quantity', 'herb', None, None, 'potency', 'property']
-    data = pd.read_excel(spreadsheet, sheet_name='Recipes', skiprows=2, header=None, usecols='B:K', names=names)
+    data = pd.read_excel(alchemy_guide, sheet_name='Recipes', skiprows=2, header=None, usecols='B:K', names=names)
 
     # Assemble the recipe from the rows that describe each ingredient slot
     recipes = {}
@@ -37,12 +43,16 @@ def get_recipes():
 
 @cache
 def get_herbs():
-    data = pd.read_excel(spreadsheet, sheet_name='Herbs', usecols='A:C,E,G')
-    return [i for i in data.itertuples() if 'Demon Core' not in i.Name ]
+    names = ['name', 'value', 'effect', 'description']
+    items = pd.read_excel(item_list, sheet_name='d_items py datas', usecols='E,S:U', names=names)
+
+    names = ['grade', 'name', 'primary', 'secondary', 'temperature']
+    data = pd.read_excel(alchemy_guide, sheet_name='Herbs', usecols='A:C,E,G', names=names)
+    return [i for i in data.itertuples() if 'Demon Core' not in i.name ]
 
 
 def get_herb(name):
-    return next((h for h in get_herbs() if h.Name == name), None)
+    return next((h for h in get_herbs() if h.name == name), None)
 
 
 def get_elixir(name):
@@ -66,17 +76,17 @@ def herbs_by(grade=None, property=None):
     ]
     return [
         h for h in get_herbs()
-        if h.Grade == grade and h.Name not in to_avoid and (
-            h.Primary == property or
-            h.Secondary == property or
-            h.Temperature == property
+        if h.grade == grade and h.name not in to_avoid and (
+            h.primary == property or
+            h.secondary == property or
+            h.temperature == property
         )
     ]
 
 
 def get_balancing_temperature(recipe):
     temperatures = [
-        recipe[slot]['herb'].Temperature
+        recipe[slot]['herb'].temperature
         for slot in get_recipe_slots(recipe) if slot != 'Temperature'
     ]
     if temperatures.count('Cold') > temperatures.count('Heat'):
@@ -95,11 +105,7 @@ def is_slot_splittable(slot, recipe, furnace_capacity):
 
 def get_fixed_herb_property(herb, slot):
     # Drop the number from the slot name when looking up herb property
-    property = getattr(herb, slot.split(' ')[0])
-
-    # Fix typo for spreadsheet
-    if property == 'Coalesing':
-        property = 'Coalescing'
+    property = getattr(herb, slot.lower().split(' ')[0])
 
     return property
 
@@ -111,7 +117,7 @@ def sidetier_ingredient(slot, recipe, furnace_capacity):
 
     sidetiered_recipes = [
         { **recipe, slot: { 'herb': new_herb, 'quantity': qty } }
-        for new_herb in herbs_by(grade=herb.Grade, property=property)
+        for new_herb in herbs_by(grade=herb.grade, property=property)
         if new_herb != herb
     ]
 
@@ -138,7 +144,7 @@ def balance_recipe_temperature(recipe):
     qty = recipe['Temperature']['quantity']
     return [
         { **recipe, 'Temperature': { 'herb': h, 'quantity': qty } }
-        for h in herbs_by(grade=herb.Grade, property=get_balancing_temperature(recipe))
+        for h in herbs_by(grade=herb.grade, property=get_balancing_temperature(recipe))
     ]
 
 
@@ -177,8 +183,8 @@ def downtier_ingredient(slot, recipe):
     qty_ratio = { 6: 6, 5: 5, 4: 4, 3: 3, 2: 3 }
 
     downtiered_recipes = [
-        { **recipe, slot: { 'herb': new_herb, 'quantity': qty * qty_ratio[herb.Grade] } }
-        for new_herb in herbs_by(grade=herb.Grade-1, property=property)
+        { **recipe, slot: { 'herb': new_herb, 'quantity': qty * qty_ratio[herb.grade] } }
+        for new_herb in herbs_by(grade=herb.grade-1, property=property)
     ]
 
     if slot == 'Temperature': # No temperatures have changed
@@ -227,12 +233,12 @@ def uptier_ingredient(slot, recipe, furnace_capacity=14):
     # T5 herbs can be replaced by 5 T4 etc.
     qty_ratio = { 6: 6, 5: 5, 4: 4, 3: 3, 2: 3 }
 
-    if herb.Grade < 6 and qty % qty_ratio[herb.Grade+1] != 0:
+    if herb.grade < 6 and qty % qty_ratio[herb.grade+1] != 0:
         return []
 
     uptiered_recipes = [
-        { **recipe, slot: { 'herb': h, 'quantity': qty / qty_ratio[h.Grade] } }
-        for h in herbs_by(grade=herb.Grade+1, property=property)
+        { **recipe, slot: { 'herb': h, 'quantity': qty / qty_ratio[h.grade] } }
+        for h in herbs_by(grade=herb.grade+1, property=property)
     ]
 
     if slot == 'Temperature':
@@ -253,13 +259,13 @@ def calculate_herb_types(recipe):
 
 def calculate_value(recipe):
     elixir = get_elixir(recipe['name'])
-    return elixir.value * 2 if elixir else None
+    return elixir.value if elixir else None
 
 
 def herb_to_dict(herb, slot):
     return {
-        'name': herb.Name,
-        'grade': 'T{:0.0f}'.format(herb.Grade),
+        'name': herb.name,
+        'grade': 'T{:0.0f}'.format(herb.grade),
         'property': get_fixed_herb_property(herb, slot) if slot != 'Temperature' else None,
         'temperature': get_fixed_herb_property(herb, 'Temperature'),
     }
@@ -275,9 +281,9 @@ def recipe_to_dict(recipe):
     return {
         'name': recipe['name'],
         **as_dict,
-        'cost': int(calculate_price(recipe)),
+        'cost': int(calculate_cost(recipe)),
         'value': int(calculate_value(recipe)),
-        'profit': int(calculate_value(recipe) - calculate_price(recipe))
+        'profit': int(calculate_value(recipe) - calculate_cost(recipe))
     }
 
 
@@ -286,7 +292,7 @@ def print_recipe(recipe):
 
 
 def sort_recipes(recipes, reverse=True):
-    criteria = lambda r: (calculate_price(r), calculate_herb_types(r), calculate_slots(r))
+    criteria = lambda r: (calculate_cost(r), calculate_herb_types(r), calculate_slots(r))
     return sorted(recipes, key=criteria, reverse=reverse)
 
 
@@ -299,10 +305,10 @@ def print_recipes(recipes):
     print(json.dumps(result, indent=2))
 
 
-def calculate_price(recipe):
+def calculate_cost(recipe):
     pricing = { 1: 3, 2: 12, 3: 135, 4: 1440, 5: 13500, 6: 81000 }
     return sum([
-        pricing[recipe[slot]['herb'].Grade] * recipe[slot]['quantity'] * 2
+        pricing[recipe[slot]['herb'].grade] * recipe[slot]['quantity'] * 2
         for slot in get_recipe_slots(recipe)
     ])
 
@@ -319,8 +325,10 @@ def generate_all_recipes_for(name, furnace_capacity=14):
                     found.append(j)
     return found
 
+
 def only_minimal(recipes):
     return [ r for r in recipes if not is_bloated(r) ]
+
 
 def is_bloated(recipe):
     primary = is_slot_stackable('Primary', recipe) and is_temperature_balanced_without_slot('Primary 2', recipe)
@@ -332,11 +340,14 @@ def is_bloated(recipe):
     )
     return primary or secondary or both
 
+
 def is_temperature_balanced_without_slot(slot, recipe):
     return is_recipe_balanced({ key: recipe[key] for key in recipe if key != slot })
 
+
 def is_recipe_balanced(recipe):
-    return get_balancing_temperature(recipe) == recipe['Temperature']['herb'].Temperature
+    return get_balancing_temperature(recipe) == recipe['Temperature']['herb'].temperature
+
 
 def is_slot_stackable(slot, recipe):
     return (
@@ -344,6 +355,19 @@ def is_slot_stackable(slot, recipe):
         slot + ' 2' in recipe and
         recipe[slot]['herb'] == recipe[slot + ' 2']['herb']
     )
+
+
+def get_dao_exp(elixir):
+    ratio = {
+        1: 0.6,
+        2: 0.4,
+        3: 0.2,
+        4: 0.04,
+        5: 0.08572,
+        6: 0.014545,
+    }
+
+    return int(elixir.value * ratio[elixir.grade])
 
 
 if __name__ == '__main__':
@@ -357,11 +381,11 @@ from unittest import TestCase, skip
 class TestRecipes(TestCase):
     def test_that_herbs_can_be_loaded_from_spreadsheet(self):
         herbs = get_herbs()
-        self.assertEqual('Azuresky Flower', herbs[0].Name)
-        self.assertEqual('Mending', herbs[0].Primary)
-        self.assertEqual('Focusing', herbs[0].Secondary)
-        self.assertEqual('Heat', herbs[0].Temperature)
-        self.assertEqual(1, herbs[0].Grade)
+        self.assertEqual('Azuresky Flower', herbs[0].name)
+        self.assertEqual('Mending', herbs[0].primary)
+        self.assertEqual('Focusing', herbs[0].secondary)
+        self.assertEqual('Heat', herbs[0].temperature)
+        self.assertEqual(1, herbs[0].grade)
 
     def test_that_recipes_can_be_loaded_from_spreadsheet(self):
         recipes = get_recipes()
@@ -424,12 +448,14 @@ class TestRecipes(TestCase):
         self.assertFalse(find_duplicates(generate_all_recipes_for('Pure Heart Soul Tempering Elixir')))
 
     def test_that_elixirs_can_be_loaded_from_spreadsheet(self):
-        self.assertEqual(126, len(get_elixirs()))
+        self.assertEqual(127, len(get_elixirs()))
+        self.assertEqual(143, get_elixir('Qi Guidance Elixir').value)
+        print(get_elixir('Qi Guidance Elixir'))
 
     def test_that_recipe_can_be_converted_to_dict(self):
         recipes = get_recipes()
         self.assertEqual('Qi Guidance Elixir', recipe_to_dict(recipes['Qi Guidance Elixir'])['name'])
-        self.assertEqual(114, recipe_to_dict(recipes['Qi Guidance Elixir'])['value'])
+        self.assertEqual(143, recipe_to_dict(recipes['Qi Guidance Elixir'])['value'])
 
     def test_that_non_minimal_recipes_can_be_detected(self):
         recipes = sort_recipes(generate_all_recipes_for('Vitality Shard Elixir'), reverse=False)
@@ -440,11 +466,12 @@ class TestRecipes(TestCase):
     def test_that_herb_images_can_be_loaded_from_spreadsheet(self):
         extract_images_to_static_dir()
 
+
 def extract_images_to_static_dir():
     import openpyxl
     from openpyxl_image_loader import SheetImageLoader
 
-    sheet = openpyxl.load_workbook(spreadsheet)['Herbs']
+    sheet = openpyxl.load_workbook(alchemy_guide)['Herbs']
     image_loader = SheetImageLoader(sheet)
 
     for i in range(2,153):

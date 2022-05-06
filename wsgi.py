@@ -1,6 +1,15 @@
 from flask import Flask, request, jsonify, url_for, render_template
 from urllib.parse import urlencode
-from main import generate_all_recipes_for, recipes_to_sorted_dicts, get_elixirs, get_recipe_slots, only_minimal
+from math import isnan
+
+from main import (
+    generate_all_recipes_for,
+    recipes_to_sorted_dicts,
+    get_elixirs,
+    get_recipe_slots,
+    only_minimal,
+    get_dao_exp
+)
 
 app = Flask(__name__)
 
@@ -24,7 +33,6 @@ def recipes(name):
 def home():
     return render_template('index.html', elixirs=get_elixirs_as_dicts())
 
-
 def get_elixirs_as_dicts():
     return [
         {
@@ -33,6 +41,9 @@ def get_elixirs_as_dicts():
             'name': elixir.name,
             'effect': elixir.effect,
             'resistance': elixir.resistance,
+            'discovery_exp': get_dao_exp(elixir),
+            'exp': int(get_dao_exp(elixir) / 3),
+            'price': elixir.value,
             'recipes': url_for('recipes', name=elixir.name)
         }
         for elixir in get_elixirs()
