@@ -283,6 +283,7 @@ def recipe_to_dict(recipe):
         **as_dict,
         'cost': int(calculate_cost(recipe)),
         'value': int(calculate_value(recipe)),
+        'exp': int(get_dao_exp(get_elixir(recipe['name'])) / 3),
         'profit': int(calculate_value(recipe) - calculate_cost(recipe))
     }
 
@@ -448,7 +449,7 @@ class TestRecipes(TestCase):
         self.assertFalse(find_duplicates(generate_all_recipes_for('Pure Heart Soul Tempering Elixir')))
 
     def test_that_elixirs_can_be_loaded_from_spreadsheet(self):
-        self.assertEqual(127, len(get_elixirs()))
+        self.assertEqual(126, len(get_elixirs()))
         self.assertEqual(143, get_elixir('Qi Guidance Elixir').value)
         print(get_elixir('Qi Guidance Elixir'))
 
